@@ -1,0 +1,9 @@
+
+
+
+
+implementa un TDA Empleado con atributos como nombre,identificación, y salario. Crea un TDA Proyecto que
+contenga una lista de empleados asignados y permita operaciones como agregar empleados, calcular el costo total
+del proyecto en función de los salarios, y cambiar el estado del proyecto (en progreso, completado).
+Finalmente, crea un TDA Empresa que maneje varios proyectos y permita asignar empleados a proyectos, calcular el
+costo total de todos los proyectos en marcha, y generar informes de progreso.
